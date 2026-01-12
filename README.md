@@ -11,12 +11,12 @@ Let the assistant explain before showing anything.
 Your goal is to think like a language designer and system architect, not a feature user.
 ________________________________________
 
-Part 1 - Historical & Conceptual Reasoning
+## Part 1 - Historical & Conceptual Reasoning
 
 (Your AI assistant acts as a Language Evolution Analyst)
 ________________________________________
 
-Practice Prompt 1 – Identifying the Turning Point
+### Practice Prompt 1 – Identifying the Turning Point
 
 Ask your AI assistant:
 
@@ -33,7 +33,7 @@ Focus on:
 •	Why this was not just about developer convenience
 ________________________________________
 
-Practice Prompt 2 – The Shift to Type-Oriented Design
+### Practice Prompt 2 – The Shift to Type-Oriented Design
 
 Ask:
 
@@ -50,11 +50,12 @@ Reflect on:
 •	Why object was a liability
 ________________________________________
 
-Part 2 – Generics: The Semantic Revolution
+## Part 2 – Generics: The Semantic Revolution
 
 (Your AI assistant acts as a Type System Designer)
 ________________________________________
-Practice Prompt 3 – Life Before Generics
+
+### Practice Prompt 3 – Life Before Generics
 
 Ask:
 
@@ -73,7 +74,7 @@ Push for:
 •	Maintenance risk
 ________________________________________
 
-Practice Prompt 4 – What Generics Actually Changed
+### Practice Prompt 4 – What Generics Actually Changed
 
 Ask:
 
@@ -90,7 +91,7 @@ Listen for:
 •	Expressiveness of intent
 ________________________________________
 
-Practice Prompt 5 – Generics as a Foundation
+### Practice Prompt 5 – Generics as a Foundation
 
 Ask:
 
@@ -101,12 +102,12 @@ Explain the dependency, not just the timeline.”
 This reinforces historical continuity.
 ________________________________________
 
-Part 3 – Iterators and Lazy Thinking
+## Part 3 – Iterators and Lazy Thinking
 
 (Your AI assistant acts as a Cognitive Ergonomics Expert)
 ________________________________________
 
-Practice Prompt 6 – The Cognitive Cost of Old Iteration
+### Practice Prompt 6 – The Cognitive Cost of Old Iteration
 
 Ask:
 
@@ -123,7 +124,7 @@ Focus on:
 •	Noise vs signal
 ________________________________________
 
-Practice Prompt 7 – Iterators as a Mental Model Shift
+### Practice Prompt 7 – Iterators as a Mental Model Shift
 
 Ask:
 
@@ -138,12 +139,12 @@ Look for:
 •	Readability as a correctness feature
 ________________________________________
 
-Part 4 – Early Functional Signals
+## Part 4 – Early Functional Signals
 
 (Your AI assistant acts as a Programming Paradigms Historian)
 ________________________________________
 
-Practice Prompt 8 – Anonymous Methods as a Bridge
+### Practice Prompt 8 – Anonymous Methods as a Bridge
 
 Ask:
 
@@ -158,7 +159,7 @@ Explore:
 •	How this enabled later lambda expressions
 ________________________________________
 
-Practice Prompt 9 – Nullable Value Types and Modeling Absence
+### Practice Prompt 9 – Nullable Value Types and Modeling Absence
 
 Ask:
 
@@ -173,12 +174,12 @@ Encourage reasoning about:
 •	Domain correctness
 ________________________________________
 
-Part 5 – Type Variance & Large-Scale Design
+## Part 5 – Type Variance & Large-Scale Design
 
 (Your AI assistant acts as a Systems Architect)
 ________________________________________
 
-Practice Prompt 10 – Variance and Substitutability
+### Practice Prompt 10 – Variance and Substitutability
 
 Ask:
 
@@ -189,7 +190,7 @@ Why is this more important in frameworks than in small programs?”
 This sharpens API design thinking.
 _______________________________________
 
-Practice Prompt 11 – Partial Types and Real-World Scale
+### Practice Prompt 11 – Partial Types and Real-World Scale
 
 Ask:
 
@@ -204,12 +205,12 @@ Focus on:
 •	Long-term maintenance
 ________________________________________
 
-Part 6 – Distinguishing Foundational vs Incremental Change
+## Part 6 – Distinguishing Foundational vs Incremental Change
 
 (Your AI assistant acts as a Language Evaluator)
 ________________________________________
 
-Practice Prompt 12 – Classification Challenge
+### Practice Prompt 12 – Classification Challenge
 
 Ask:
 
@@ -226,7 +227,7 @@ Encourage:
 •	Long-term impact assessment
 ________________________________________
 
-Practice Prompt 13 – Applying the Evolution Framework
+### Practice Prompt 13 – Applying the Evolution Framework
 
 Ask:
 
@@ -241,12 +242,12 @@ Ask:
 This trains systematic evaluation skills.
 ________________________________________
 
-Part 7 – Forward Continuity Thinking
+## Part 7 – Forward Continuity Thinking
 
 (Your AI assistant acts as a Language Strategist)
 ________________________________________
 
-Practice Prompt 14 – Enabling the Future
+### Practice Prompt 14 – Enabling the Future
 
 Ask:
 
@@ -255,14 +256,14 @@ Ask:
 This locks in cause-and-effect understanding.
 ________________________________________
 
-Final Reflection Prompt
+## Final Reflection Prompt
 
 Ask:
 
 “If C# had skipped version 2.0 and tried to jump directly to LINQ or async/await, what would have broken conceptually?”
 ________________________________________
 
-Key Outcomes of This Practice
+## Key Outcomes of This Practice
 
 By completing these prompts, you should be able to:
 
